@@ -94,6 +94,7 @@
             popup-nvim
             rose-pine
             telescope-nvim
+            vim-sleuth
 
             cmp-buffer
             cmp-nvim-lsp
