@@ -71,14 +71,6 @@
             redhat.vscode-yaml
             tamasfe.even-better-toml
             yzhang.markdown-all-in-one
-
-            # Java
-            redhat.java
-            redhat.vscode-xml
-            redhat.vscode-yaml
-            vscjava.vscode-java-debug
-            vscjava.vscode-java-test
-            vscjava.vscode-maven
           ];
           mutableExtensionsDir = true;
           inherit (vscode) userSettings;
