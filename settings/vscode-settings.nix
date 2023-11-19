@@ -15,4 +15,6 @@
   };
 
   "vscode-neovim.neovimClean" = true;
+  "editor.ruler" = 80;
+  "editor.wordWrap" = "on";
 }
