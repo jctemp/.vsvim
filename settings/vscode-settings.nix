@@ -5,8 +5,6 @@
     "asvetliakov.vscode-neovim" = 1;
   };
 
-  "telemetry.enableCrashReporter" = false;
-  "telemetry.enableTelemetry" = false;
   "telemetry.telemetryLevel" = "off";
 
   "terminal.integrated.profiles.linux" = {
@@ -17,4 +15,8 @@
   };
 
   "vscode-neovim.neovimClean" = true;
+
+  "github.copilot.enable" = {
+    "*" = true;
+  };
 }
