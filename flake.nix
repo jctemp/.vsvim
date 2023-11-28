@@ -67,10 +67,10 @@
 
             # Language support
             jnoortheen.nix-ide
+            nvarner.typst-lsp
             redhat.vscode-yaml
             tamasfe.even-better-toml
             yzhang.markdown-all-in-one
-            nvarner.typst-lsp
           ];
           mutableExtensionsDir = true;
           inherit (vscode) userSettings;
